@@ -1,4 +1,5 @@
 # bitcointicker
+![Simulator Screenshot - iPhone 15 Pro Max - 2024-08-17 at 15 25 18](https://github.com/user-attachments/assets/d84c60ff-ccc3-45b4-bd9a-cf70e48e9961)
 
 A new Flutter project.
 
